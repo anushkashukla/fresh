@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '                                             Expectations Vs Reality'
-date: {}
+date: 2017-03-30T00:00:00.000Z
 img: house.jpg
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
