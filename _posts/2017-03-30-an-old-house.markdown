@@ -2,7 +2,7 @@
 layout: post
 title: '                                             Expectations Vs Reality'
 date: {}
-
+image:
 description: ''
 published: true
 ---
